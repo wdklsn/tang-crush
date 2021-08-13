@@ -8,5 +8,4 @@ const CONFIG = {
     btnNo: 'Hong bít',
     question:'Nè đoán thử đi Miii ',
     mess: 'Mi đoán đúng ròi ớ',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    
