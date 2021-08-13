@@ -6,6 +6,6 @@ const CONFIG = {
     desc: 'Mi thử chọn coi coi sao nhen',
     btnYes: 'Nhớ Mi',
     btnNo: 'Hong bít',
-    question:'Nè đoán thử đi Miii ',
+    question:'đố Mi biết mai là ngày gì nhennn ',
     mess: 'Mi đoán đúng ròi ớ',
     
