@@ -7,5 +7,5 @@ const CONFIG = {
     btnYes: 'Nhớ Mi',
     btnNo: 'Hong bít',
     question:'đố Mi biết mai là ngày gì nhennn ',
-    mess: 'Mi đoán đúng ròi ớ',
+    mess: 'Mi đoán đúng ròi ',
     
